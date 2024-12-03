@@ -8,7 +8,7 @@
 
 ### 🌐 *Connect with Me*
 [![LinkedIn](https://www.linkedin.com/in/harsha-vardhan-321546333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/harshavardhan)  
-[![GitHub](https://github.com/vardhan-h7/vardhan-h7)
+[![GitHub](https://github.com/vardhan-h7)
 
 ---
 
@@ -32,29 +32,9 @@
 ### 📊 *My GitHub Stats*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Likhitha310&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Likhitha310&theme=radical" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Likhitha310&theme=rogue" alt="GitHub Contribution Graph" />
-</div>
-
----
-
-### 🌟 *Featured Projects*
-Here are some cool projects I’ve worked on:  
-
-- 🚀 **[Crime Rate Prediction](https://github.com/Likhitha310/crime-rate-prediction)**  
-  Machine learning project analyzing crime data by location.  
-  *Tech Stack*: Python, Pandas, Seaborn  
-
-- 🖼️ **[Hair Segmentation](https://github.com/Likhitha310/hair-segmentation)**  
-  AI project for preprocessing dermoscopic images.  
-  *Tech Stack*: TensorFlow, OpenCV  
-
----
-
-### 🎨 *Fun Animations*
-<div align="center">
-  <img src="https://github.com/Likhitha310/Likhitha310/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation">
+  <img src="https://github-readme-stats.vercel.app/api?username=vardhan-h7&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vardhan-h7&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vardhan-h7&theme=rogue" alt="GitHub Contribution Graph" />
 </div>
 
 ---
@@ -72,4 +52,3 @@ Here are some cool projects I’ve worked on:
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with love badge">
 </p>
 
----
